@@ -1,0 +1,6 @@
+
+#ignore this file
+secrets.txt
+
+#ignore all file that has .txt
+#*.txt
