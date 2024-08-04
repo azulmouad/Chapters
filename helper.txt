@@ -10,3 +10,5 @@ git branch
 git checkout alien-plot
 
 
+//push to Main Repo
+git push origin main -u
