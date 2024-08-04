@@ -1,5 +1,12 @@
 
-class ApiClass{
-    //1 my ApiClass
-    //2 my Class
-}
+
+//Create new Branch
+git branch alien-plot
+
+//Check which branch you are
+git branch
+
+//Switch to the new branch
+git checkout alien-plot
+
+
