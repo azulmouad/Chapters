@@ -12,3 +12,7 @@ git checkout alien-plot
 
 //push to Main Repo
 git push origin main -u
+
+
+//If it open in terminal text editor enter this command then  enter
+:q
